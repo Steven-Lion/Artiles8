@@ -1,0 +1,14 @@
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.ZKFPEngXControl.dll
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.ZKFPEngXControl.dll
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.ZKFPEngXControl.dll
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.ZKFPEngXControl.dll
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\16khkAutoID\les8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
